@@ -7,7 +7,7 @@
  
 ## スクリーンショット 
  
-![generattor_4.php](generator4.php.png)
+![generattor_4.php](generator_4.php.png)
 ![question_post.php](question_post.php.png)
 
 
