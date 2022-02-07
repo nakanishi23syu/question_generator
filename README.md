@@ -15,7 +15,24 @@
 ![generator_manual_09](/manual/manual_09.png)
 ![generator_manual_10](/manual/manual_10.png)
 
- 
+## 参考
+
+最後のスライドの参考をリンク形式で載せておきます。
+* [ボケて](https://bokete.jp/)
+* [コロモー](https://coromoo.com/)
+
+
+* [TECH-BASE（長期インターンシップ運営）](https://tech-base.net/)
+* [TechAcademyマガジン](https://techacademy.jp/magazine/)
+* [Qiita](https://qiita.com/)
+* [しばぶーのIT大学](https://www.youtube.com/c/shimabu_it[](url))
+* [徳田 啓【プログラミング学習チャンネル】](https://www.youtube.com/c/keitokuta/videos)
+
+
+
+
+
+## 使い方
 
  
 ## スクリーンショット 
