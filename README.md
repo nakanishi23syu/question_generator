@@ -4,7 +4,7 @@
 調整完了次第、公開する予定です。
 
 ## 使い方
-![description](質問ジェネレータ.pdf)
+![generator_manual_1](/manual/manual_01.png)
 
  
 
