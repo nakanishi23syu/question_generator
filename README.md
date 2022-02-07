@@ -28,17 +28,11 @@
 * [しばぶーのIT大学](https://www.youtube.com/c/shimabu_it[](url))
 * [徳田 啓【プログラミング学習チャンネル】](https://www.youtube.com/c/keitokuta/videos)
 
-
-
-
-
-## 使い方
-
  
 ## スクリーンショット 
  
-![generattor_4.php](generator_4.php.png)
-![question_post.php](question_post.php.png)
+![generattor_4.php](/image/generator_4.php.png)
+![question_post.php](/image/question_post.php.png)
 
 
  
