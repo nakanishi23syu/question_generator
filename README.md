@@ -4,7 +4,16 @@
 調整完了次第、公開する予定です。
 
 ## 使い方
-![generator_manual_1](/manual/manual_01.png)
+![generator_manual_01](/manual/manual_01.png)
+![generator_manual_02](/manual/manual_02.png)
+![generator_manual_03](/manual/manual_03.png)
+![generator_manual_04](/manual/manual_04.png)
+![generator_manual_05](/manual/manual_05.png)
+![generator_manual_06](/manual/manual_06.png)
+![generator_manual_07](/manual/manual_07.png)
+![generator_manual_08](/manual/manual_08.png)
+![generator_manual_09](/manual/manual_09.png)
+![generator_manual_10](/manual/manual_10.png)
 
  
 
