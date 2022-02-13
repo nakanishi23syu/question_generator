@@ -3,11 +3,16 @@
 会話のネタを提供し、気まずい時間をなくすことを目的とした質問生成ツールです。<br>
 調整完了次第、公開する予定です。
 
+<br>
+<br>
+
 ## スクリーンショット 
  
 ![generattor_4.php](/image/generator_4.php.png)
 ![question_post.php](/image/question_post.php.png)
 
+<br>
+<br>
 
 ## 使い方
 ![generator_manual_01](/manual/manual_01.png)
@@ -20,6 +25,8 @@
 ![generator_manual_08](/manual/manual_08.png)
 ![generator_manual_09](/manual/manual_09.png)
 ![generator_manual_10](/manual/manual_10.png)
+
+<br>
 
 ## 参考
 最後のスライドの参考をリンク形式で載せておきます。
