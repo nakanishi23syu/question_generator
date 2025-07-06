@@ -46,4 +46,3 @@
  
 * Nakanishi
 * 23卒
-* [Twitter](https://twitter.com/Nakana_design)
